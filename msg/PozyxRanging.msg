@@ -11,3 +11,4 @@ float64 datarate
 int32 prf
 int32 preambleLength
 float64 txGain
+float64 angle
