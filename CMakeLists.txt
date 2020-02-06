@@ -27,6 +27,7 @@ add_message_files(
   DWRanging.msg
   PozyxRanging.msg
   RangingDiff.msg
+  PozyxRangingWithCir.msg
  )
 
 ## Generate added messages and services with any dependencies listed here
