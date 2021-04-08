@@ -28,6 +28,8 @@ add_message_files(
   PozyxRanging.msg
   RangingDiff.msg
   PozyxRangingWithCir.msg
+  ESP32S2FTMFrame.msg
+  ESP32S2FTMRanging.msg
  )
 
 ## Generate added messages and services with any dependencies listed here
