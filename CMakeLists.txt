@@ -31,6 +31,9 @@ add_message_files(
   ESP32S2FTMFrame.msg
   ESP32S2FTMRanging.msg
   ESP32S2FTMRangingExtra.msg
+  RadarCube.msg
+  RadarRangeAzimuth.msg
+  RadarRangeDoppler.msg
  )
 
 ## Generate added messages and services with any dependencies listed here
