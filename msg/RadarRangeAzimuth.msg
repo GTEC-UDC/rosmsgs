@@ -1,4 +1,4 @@
-Header header
-int16 numRangeBins
-int16 numVirtualAntennas
+std_msgs/Header header
+int16 num_range_bins
+int16 num_virtual_antennas
 float64[] data

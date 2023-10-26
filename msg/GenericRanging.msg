@@ -1,5 +1,5 @@
-int16 anchorId
-int16 tagId
+int16 anchor_id
+int16 tag_id
 int32 range
 int32 seq
-float64 rxPower
+float64 rx_power
