@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: GTEC ROS Messages
+message: >-
+  If you use this project, please cite it using the metadata
+  from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0001-8750-7960'
+    affiliation: 'CITIC Research Center, University of A Coruña'
+    given-names: Valentín
+    family-names: Barral Vales
+repository-code: 'https://github.com/GTEC-UDC/rosmsgs'
+abstract: |
+  This project contains a set of custom ROS message definitions used in several GTEC ROS nodes.
+license: MIT
